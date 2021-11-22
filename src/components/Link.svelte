@@ -19,7 +19,6 @@
     a.link-block {
         display: block;
         cursor: pointer;
-        width: 100%;
         margin: 0 0 1rem 0;
         padding: 1rem;
         background-color: #eeeeee;
