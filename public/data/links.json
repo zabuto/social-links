@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Example One",
+        "url": "https://example-one.com/",
+        "icon": "icon-star.png",
+        "position": "right"
+    },
+    {
+        "title": "Example Two",
+        "url": "https://example-two.com/mysite/information",
+        "icon": null,
+        "position": null
+    },
+    {
+        "title": "Example Three",
+        "url": "https://example-three.com/",
+        "icon": null,
+        "position": null
+    }
+]
